@@ -13,3 +13,18 @@
 /home/parsajr/vscode projects/Solid-Principle/Single_Responsibility_Principle/obj/Debug/net6.0/Single_Responsibility_Principle.pdb
 /home/parsajr/vscode projects/Solid-Principle/Single_Responsibility_Principle/obj/Debug/net6.0/Single_Responsibility_Principle.genruntimeconfig.cache
 /home/parsajr/vscode projects/Solid-Principle/Single_Responsibility_Principle/obj/Debug/net6.0/ref/Single_Responsibility_Principle.dll
+/home/parsajr/Solid In C#/Solid-Principle/Single_Responsibility_Principle/bin/Debug/net6.0/Single_Responsibility_Principle
+/home/parsajr/Solid In C#/Solid-Principle/Single_Responsibility_Principle/bin/Debug/net6.0/Single_Responsibility_Principle.deps.json
+/home/parsajr/Solid In C#/Solid-Principle/Single_Responsibility_Principle/bin/Debug/net6.0/Single_Responsibility_Principle.runtimeconfig.json
+/home/parsajr/Solid In C#/Solid-Principle/Single_Responsibility_Principle/bin/Debug/net6.0/Single_Responsibility_Principle.dll
+/home/parsajr/Solid In C#/Solid-Principle/Single_Responsibility_Principle/bin/Debug/net6.0/Single_Responsibility_Principle.pdb
+/home/parsajr/Solid In C#/Solid-Principle/Single_Responsibility_Principle/obj/Debug/net6.0/Single_Responsibility_Principle.csproj.AssemblyReference.cache
+/home/parsajr/Solid In C#/Solid-Principle/Single_Responsibility_Principle/obj/Debug/net6.0/Single_Responsibility_Principle.GeneratedMSBuildEditorConfig.editorconfig
+/home/parsajr/Solid In C#/Solid-Principle/Single_Responsibility_Principle/obj/Debug/net6.0/Single_Responsibility_Principle.AssemblyInfoInputs.cache
+/home/parsajr/Solid In C#/Solid-Principle/Single_Responsibility_Principle/obj/Debug/net6.0/Single_Responsibility_Principle.AssemblyInfo.cs
+/home/parsajr/Solid In C#/Solid-Principle/Single_Responsibility_Principle/obj/Debug/net6.0/Single_Responsibility_Principle.csproj.CoreCompileInputs.cache
+/home/parsajr/Solid In C#/Solid-Principle/Single_Responsibility_Principle/obj/Debug/net6.0/Single_Responsibility_Principle.dll
+/home/parsajr/Solid In C#/Solid-Principle/Single_Responsibility_Principle/obj/Debug/net6.0/refint/Single_Responsibility_Principle.dll
+/home/parsajr/Solid In C#/Solid-Principle/Single_Responsibility_Principle/obj/Debug/net6.0/Single_Responsibility_Principle.pdb
+/home/parsajr/Solid In C#/Solid-Principle/Single_Responsibility_Principle/obj/Debug/net6.0/Single_Responsibility_Principle.genruntimeconfig.cache
+/home/parsajr/Solid In C#/Solid-Principle/Single_Responsibility_Principle/obj/Debug/net6.0/ref/Single_Responsibility_Principle.dll

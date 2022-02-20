@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/parsajr/Solid In C#/Solid-Principle/Single_Responsibility_Principle/Single_Responsibility_Principle.csproj": {}
+    "/home/parsajr/Solid In C#/Solid-Principle/Open_Closed_Principle /Open_Closed_Principle.csproj": {}
   },
   "projects": {
-    "/home/parsajr/Solid In C#/Solid-Principle/Single_Responsibility_Principle/Single_Responsibility_Principle.csproj": {
+    "/home/parsajr/Solid In C#/Solid-Principle/Open_Closed_Principle /Open_Closed_Principle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/parsajr/Solid In C#/Solid-Principle/Single_Responsibility_Principle/Single_Responsibility_Principle.csproj",
-        "projectName": "Single_Responsibility_Principle",
-        "projectPath": "/home/parsajr/Solid In C#/Solid-Principle/Single_Responsibility_Principle/Single_Responsibility_Principle.csproj",
+        "projectUniqueName": "/home/parsajr/Solid In C#/Solid-Principle/Open_Closed_Principle /Open_Closed_Principle.csproj",
+        "projectName": "Open_Closed_Principle",
+        "projectPath": "/home/parsajr/Solid In C#/Solid-Principle/Open_Closed_Principle /Open_Closed_Principle.csproj",
         "packagesPath": "/home/parsajr/.nuget/packages/",
-        "outputPath": "/home/parsajr/Solid In C#/Solid-Principle/Single_Responsibility_Principle/obj/",
+        "outputPath": "/home/parsajr/Solid In C#/Solid-Principle/Open_Closed_Principle /obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/parsajr/.nuget/NuGet/NuGet.Config"
